@@ -1,0 +1,10 @@
+
+Configuración IP de Windows
+
+
+Adaptador Ethernet Conexión de área local          :
+
+        Sufijo de conexión específica DNS : Home
+        Dirección IP. . . . . . . . . . . : 192.168.1.34
+        Máscara de subred . . . . . . . . : 255.255.255.0
+        Puerta de enlace predeterminada   : 192.168.1.1
